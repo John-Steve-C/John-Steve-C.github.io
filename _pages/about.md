@@ -14,4 +14,4 @@ One of my research experiences involved remote collaboration with [Prof. Diyi Ya
 
 My technical proficiency includes C/C++, Python (with expertise in PyTorch and Huggingface).
 
-Here is my [CV](../assets/CV.pdf).
+Here is my [CV](../files/CV.pdf).

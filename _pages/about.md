@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to Wentao's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Wentao Chen, a junior student of [ACM class](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University. My research interest includes natural language proccessing and machine learning, especially logic reasoning of LLM.
+Hi! I'm Wentao Chen, an fourth-year undergraduate student of [ACM class](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University. And I'm applying for a Ph.D. in 2025 Fall.
 
-One of my research experiences involved remote collaboration with [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/), where I contributed to a project on LLM unlearning alongside a PhD and a Bachelor. Additionally, I have worked in [the BCMI lab](https://bcmi.sjtu.edu.cn/) at SJTU under the guidance of [Prof. Baoliang Lu](https://bcmi.sjtu.edu.cn/~blu/), exploring self-supervised learning on SEED datasets. 
+## Research Interests
+
+My research interest includes natural language proccessing and machine learning. To be specific, 
+
+- **LLM Safety**: How can we ensure LLMs do not produce harmful responses or compromise privacy?
+- **Representation Learning**: How can we extract superior representations from plain text or sequential data to enhance downstream task performance?
+- **Logic Reasoning**: There should be something better than Chain-of-Thought.
+
+For now, I'm working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) on LLM attacks and code generation memorization. Before, I have worked in SJTU BCMI with [Prof. Weilong Zheng](https://weilongzheng.github.io/) on self-supervised EEG learning on emotion classification.
 
 My technical proficiency includes C/C++, Python (with expertise in PyTorch and Huggingface).
 
-Here is my [CV](../files/CV.pdf).
+Here is my [CV](../files/CV.pdf). (Please ignore the top button)

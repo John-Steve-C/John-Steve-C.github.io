@@ -11,13 +11,13 @@ author_profile: true
 
 - [*Memorize or Generalize? Evaluating LLM Code Generation with Evolved Questions*](https://arxiv.org/abs/2503.02296)
 
-  **Wentao Chen***, Lizhe Zhang*, Li Zhong, Letian Peng, Zilong Wang, Jingbo Shang
+  **Wentao Chen\***, Lizhe Zhang\*, Li Zhong, Letian Peng, Zilong Wang, Jingbo Shang
 
 ## 2024
 
 - [*Improve Cross-Architecture Generalization on Dataset Distillation*](https://arxiv.org/abs/2402.13007), ICMSSP 2024 
 
-  Binglin Zhou*, Linhao Zhong*, **Wentao Chen***
+  Binglin Zhou\*, Linhao Zhong\*, **Wentao Chen\***
 
 - [*Contrastive Self-supervised EEG Representation Learning for Emotion Classification*](https://ieeexplore.ieee.org/abstract/document/10781579), EMBC 2024
 

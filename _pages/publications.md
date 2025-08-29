@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprint
 
-- [Memorize or Generalize? Evaluating LLM Code Generation with Evolved Questions](https://arxiv.org/abs/2503.02296)
+- [*Memorize or Generalize? Evaluating LLM Code Generation with Evolved Questions*](https://arxiv.org/abs/2503.02296)
 
   **Wentao Chen***, Lizhe Zhang*, Li Zhong, Letian Peng, Zilong Wang, Jingbo Shang
 

@@ -8,18 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Wentao Chen, an fourth-year undergraduate student of [ACM class](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University. And I'm applying for a Ph.D. in 2025 Fall.
+Hi! I'm Wentao Chen (陈文韬 in Chinese).
+
+I'm a first-year PhD student in Computer Science at **UCSD**, co-advised by [Prof. Rajesh K. Gupta](https://mesl.ucsd.edu/gupta/index.html) and [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). Previously, I received my B.E. from [ACM class](https://acm.sjtu.edu.cn/home), **Shanghai Jiao Tong University**.
 
 ## Research Interests
 
 My research interest includes natural language proccessing and machine learning. To be specific, 
 
-- **LLM Safety**: How can we ensure LLMs do not produce harmful responses or compromise privacy?
-- **Representation Learning**: How can we extract superior representations from plain text or sequential data to enhance downstream task performance?
-- **Logic Reasoning**: There should be something better than Chain-of-Thought.
+- **LLM code generation**: Improve the performance and align LLM with real-world production scenarios. This can be achieved by prompting/RL/...
+- **Time Series Adaptation**: Extract better features from time series data and try to find a unified architecture for TS-LLM.
 
-For now, I'm working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) on LLM attacks and code generation memorization. Before, I have worked in SJTU BCMI with [Prof. Weilong Zheng](https://weilongzheng.github.io/) on self-supervised EEG learning on emotion classification.
+I am activately looking for collaborators on these areas. Feel free to contact me!
 
-My technical proficiency includes C/C++, Python (with expertise in PyTorch and Huggingface).
+## Education
 
-Here is my [CV](../files/CV.pdf). (Please ignore the top button)
+- PhD in Computer Science and Engineering, [UCSD](https://ucsd.edu/), 2025-
+- B.E. in Computer Science and Engineering, [ACM class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [SJTU](https://en.sjtu.edu.cn/), 2021-2025
+
+## Experience
+
+- Summer Internship in UCSD, working with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) on LLM attacks and code generation memorization. 
+- Internship in [BCMI lab](https://bcmi.sjtu.edu.cn/), SJTU with [Prof. Weilong Zheng](https://weilongzheng.github.io/) on self-supervised EEG learning on emotion classification.
+
+Here is my [CV](../files/CV.pdf).
